@@ -1,0 +1,7 @@
+
+gpython:S116"PRename this field "listView" to match the regular expression ^[_a-z][_a-z0-9]*$.(—Ï«¬
+ƒpython:S101"gRename class "Ui_mainWindow" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Œ©”»şÿÿÿÿ
+mpython:S117"VRename this parameter "mainWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø¦Èú
+bpython:S100"KRename method "setupUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ø¦Èú
+npython:S117Ë"VRename this parameter "mainWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(µè÷
+ipython:S100Ë"QRename method "retranslateUi" to match the regular expression ^[a-z_][a-z0-9_]*$.(µè÷
